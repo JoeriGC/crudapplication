@@ -1,0 +1,9 @@
+Structure:
+
+id int(11), auto increment
+fName varchar(30)
+lName varchar(30)
+email varchar(50)
+password varchar(200)
+birthdate text
+gender varchar(20)
