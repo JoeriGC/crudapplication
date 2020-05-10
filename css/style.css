@@ -1,0 +1,40 @@
+.logout {
+    float: left;
+    background: #577bff;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.createuser {
+    float: right;
+    background: #577bff;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.updel {
+    background: #75cbff;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    color: #577bff;
+    width: 100%;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+    float: left;
+}
+
+th {
+    background-color: #577bff;
+    color: white;
+}
