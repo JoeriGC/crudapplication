@@ -1,0 +1,28 @@
+#logintext {
+    text-align: center;
+}
+
+#loginbutton {
+    background-color: #577bff;
+    border-color: #577bff;
+    width: 50px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#emailtext {
+    text-align: center;
+}
+
+#passwordtext {
+    text-align: center;
+}
+
+.logincontainer{
+    background-color: #57bcff;
+    width: 250px;
+    margin: 0 auto;
+    border: 2px solid #577bff;
+    border-radius: 25px;
+}
